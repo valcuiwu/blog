@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "cxy"
-  text: "A VitePress Site"
+  text: "personal blog"
   tagline: My great project tagline
   actions:
     - theme: brand
